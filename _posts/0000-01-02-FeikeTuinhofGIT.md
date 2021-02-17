@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our github teacher main slide!"
 ---
-This is My slide for You
+This is my own slide for myself
 Use the left arrow to go back!
